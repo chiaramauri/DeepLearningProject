@@ -6,7 +6,7 @@ Preprocessing_data.ipynb contains the preprocessing of the data, the splitting o
 
 Logistic_regression.ipynb performs logistic regression on the data.
 
-FFNN.ipynb, RNN_onhot.ipynb and RNN_fasttext.ipynb are notebooks with the implementation of the FFNN with bag of words model, of the RNN with one-hot encoding of words and of the RNN with FastText embedding, respectively.
+FFNN.ipynb, RNN_onehot.ipynb and RNN_fasttext.ipynb are notebooks with the implementation of the FFNN with bag of words model, of the RNN with one-hot encoding of words and of the RNN with FastText embedding, respectively.
 
 Data_matrix_sample_programs2.pickle is the original data set.
 
