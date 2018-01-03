@@ -2,7 +2,7 @@
 
 The content of this repository is the following:
 
-Preprocessing_data.ipynb contains the preprossing of the data, the splitting of the data set in training, validation and test set and the FastText embedding.
+Preprocessing_data.ipynb contains the preprocessing of the data, the splitting of the data set in training, validation and test set and the FastText embedding.
 
 Logistic_regression.ipynb performs logistic regression on the data.
 
